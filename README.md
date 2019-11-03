@@ -1,1 +1,1 @@
-# Homework-2
+This is an updated responsive portfolio with links to past projects.
