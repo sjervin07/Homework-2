@@ -65,5 +65,6 @@ nav {
 
 .footer {
   border-top: 8px solid;
+  border-bottom: 75px solid;
   color: #4aaaa5;
 }
